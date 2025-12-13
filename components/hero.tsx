@@ -43,13 +43,13 @@ export function Hero() {
 
         {/* Content */}
         <div className="space-y-6 lg:order-1">
-          <h1 className="text-5xl lg:text-6xl font-bold text-foreground leading-tight">Sarkar Nayan</h1>
+          <h1 className="text-5xl lg:text-6xl font-bold text-foreground leading-tight">Aniruddah</h1>
 
           <p className="text-lg text-foreground/70 leading-relaxed">
-            Highly motivated and detail-oriented Web Developer with a Bachelor's degree in Computer Science and
-            Engineering for 4 years. Proficient in PHP, with a deep understanding of the Laravel framework. Seeking to
-            leverage my technical skills and passion for web development to provide high-quality, user-centric solutions
-            in a challenging role.
+          A highly motivated and detail-focused Web Developer with a four-year Bachelor’s degree in Computer Science and Engineering,
+           currently pursuing an M.Sc. in Engineering in Information and Communication Technology (ICT) at KUET. Skilled in PHP and 
+           experienced in developing robust web applications using the Laravel framework. Eager to apply strong technical expertise
+            and a passion for web development to deliver high-quality, user-focused solutions in a challenging and growth-oriented role.
           </p>
 
           {/* Key Stats */}
@@ -78,3 +78,4 @@ export function Hero() {
     </section>
   )
 }
+
