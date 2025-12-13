@@ -33,7 +33,7 @@ export function Hero() {
                   <div className="w-32 h-32 rounded-full bg-accent/30 mx-auto mb-4 flex items-center justify-center">
                     <span className="text-accent text-4xl">👨‍💻</span>
                   </div>
-                  <p className="text-foreground/40 text-sm">Sarkar Nayan</p>
+                  <p className="text-foreground/40 text-sm">Aniruddah Biswas</p>
                 </div>
               </div>
             </div>
@@ -43,7 +43,7 @@ export function Hero() {
 
         {/* Content */}
         <div className="space-y-6 lg:order-1">
-          <h1 className="text-5xl lg:text-6xl font-bold text-foreground leading-tight">Aniruddah</h1>
+          <h1 className="text-5xl lg:text-6xl font-bold text-foreground leading-tight">Aniruddah Biswas</h1>
 
           <p className="text-lg text-foreground/70 leading-relaxed">
           A highly motivated and detail-focused Web Developer with a four-year Bachelor’s degree in Computer Science and Engineering,
