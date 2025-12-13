@@ -43,7 +43,7 @@ export function Sidebar() {
         <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center mb-3">
           <span className="text-primary-foreground font-bold text-lg">SN</span>
         </div>
-        <h1 className="text-lg font-bold text-foreground">Sarkar Nayan</h1>
+        <h1 className="text-lg font-bold text-foreground">Aniruddah Biswas</h1>
       </div>
 
       {/* Navigation */}
