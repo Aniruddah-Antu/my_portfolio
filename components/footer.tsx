@@ -47,7 +47,7 @@ export function Footer() {
               <p className="text-foreground/60">
                 📧{" "}
                 <a
-                  href="mailto:contact@example.com"
+                  href="mailto:aniruddahantu@gmail.com"
                   className="text-accent hover:text-accent/80 cursor-pointer transition-colors"
                 >
                   contact@example.com
@@ -55,7 +55,7 @@ export function Footer() {
               </p>
               <p className="text-foreground/60">
                 📞{" "}
-                <a href="tel:+1234567890" className="text-accent hover:text-accent/80 cursor-pointer transition-colors">
+                <a href="tel:+880-1711479276" className="text-accent hover:text-accent/80 cursor-pointer transition-colors">
                   +1 234 567 890
                 </a>
               </p>
@@ -172,7 +172,7 @@ export function Footer() {
             <h4 className="text-sm font-semibold text-foreground mb-3">Follow Me</h4>
             <div className="flex gap-3">
               <a
-                href="https://github.com"
+                href="https://github.com/Aniruddah-Antu"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/60 hover:text-accent transition-colors cursor-pointer"
@@ -180,7 +180,7 @@ export function Footer() {
                 GitHub
               </a>
               <a
-                href="https://twitter.com"
+                href="https://x.com/AniruddahBiswas"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/60 hover:text-accent transition-colors cursor-pointer"
@@ -188,7 +188,7 @@ export function Footer() {
                 Twitter
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/aniruddah-biswas/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/60 hover:text-accent transition-colors cursor-pointer"
@@ -200,7 +200,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-border/30 text-center text-foreground/40 text-sm">
-          <p>© 2025 Sarkar Nayan. All Rights Reserved.</p>
+          <p>© 2025 Aniruddah Biswas. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
