@@ -50,13 +50,13 @@ export function Footer() {
                   href="mailto:aniruddahantu@gmail.com"
                   className="text-accent hover:text-accent/80 cursor-pointer transition-colors"
                 >
-                  contact@example.com
+                  aniruddahantu@gmail.com
                 </a>
               </p>
               <p className="text-foreground/60">
                 📞{" "}
                 <a href="tel:+880-1711479276" className="text-accent hover:text-accent/80 cursor-pointer transition-colors">
-                  +1 234 567 890
+                  +880-1711479276
                 </a>
               </p>
             </div>
