@@ -41,7 +41,7 @@ export function Sidebar() {
       {/* Logo */}
       <div className="mb-8 pb-8 border-b border-border/30">
         <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center mb-3">
-          <span className="text-primary-foreground font-bold text-lg">SN</span>
+          <span className="text-primary-foreground font-bold text-lg">AB</span>
         </div>
         <h1 className="text-lg font-bold text-foreground">Aniruddah Biswas</h1>
       </div>
