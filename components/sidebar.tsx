@@ -16,10 +16,10 @@ const navItems = [
 ]
 
 const socialLinks = [
-  { icon: Github, href: "https://github.com", label: "GitHub" },
-  { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
-  { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-  { icon: Mail, href: "mailto:contact@example.com", label: "Email" },
+  { icon: Github, href: "https://github.com/Aniruddah-Antu", label: "GitHub" },
+  { icon: Twitter, href: "https://x.com/AniruddahBiswas", label: "Twitter" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/aniruddah-biswas", label: "LinkedIn" },
+  { icon: Mail, href: "mailto:aniruddahantu@gmail.com", label: "Email" },
   { icon: Briefcase, href: "https://fiverr.com", label: "Fiverr" },
   { icon: BookOpen, href: "#blog", label: "Blog" },
   { icon: ExternalLink, href: "https://upwork.com", label: "Upwork" },
@@ -88,16 +88,16 @@ export function Sidebar() {
           <div>
             <p className="text-foreground/40 mb-1">Email</p>
             <a
-              href="mailto:contact@example.com"
+              href="mailto:aniruddahantu@gmail.com"
               className="text-foreground hover:text-accent transition-colors cursor-pointer"
             >
-              contact@example.com
+              aniruddahantu@gmail.com
             </a>
           </div>
           <div>
             <p className="text-foreground/40 mb-1">Phone</p>
-            <a href="tel:+1234567890" className="text-foreground hover:text-accent transition-colors cursor-pointer">
-              +1 234 567 890
+            <a href="tel:+880-1711479276" className="text-foreground hover:text-accent transition-colors cursor-pointer">
+              +880-1711479276
             </a>
           </div>
         </div>
